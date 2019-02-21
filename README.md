@@ -6,3 +6,5 @@ Code to perform morphological classifications of galaxies using machine learning
 
 2) Galaxy_Zoo_Random Forest.ipynb
   This file contains code for random forest for same questions.
+
+Note: The documentation of code is not proper, I'm still working on it!
